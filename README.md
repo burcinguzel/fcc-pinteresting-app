@@ -15,7 +15,7 @@ This is first version:
 To install server.js, simply enter the below in the terminal window:
 
 ```bash
-$ git clone https://github.com/burcinguzel/fcc-book-trading-app.git
+$ git clone https://github.com/burcinguzel/fcc-pinteresting-app.git
 ```
 
 To install the dependencies, enter the following in your terminal:
