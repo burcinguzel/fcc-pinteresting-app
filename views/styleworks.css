@@ -1,0 +1,43 @@
+* { box-sizing: border-box; }
+body{
+  background-color: #888;
+}
+.grid {
+  padding:50px;
+}
+.grid:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+.grid-item {
+  margin-bottom: 20px;
+  float: left;
+  background: #555;
+  border: 2px solid #bbb;
+  border-color: hsla(0, 0%, 0%, 0.5);
+  text-align:center;
+}
+img{
+  width:80%;
+}
+.cartDesc{
+  background-color: #999;
+  color:#fff;
+  max-height:32px;
+  margin:2px;
+}
+.twImg{
+  width:32px;
+  height:32px;
+}
+.grid-width{
+  width: 250px;
+  max-width:250px;
+}
+.mySpin{
+  margin:auto;
+  width:150px;
+  height:150px;
+}
